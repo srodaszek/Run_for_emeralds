@@ -1,0 +1,3 @@
+C:/Users/Bartek/Desktop/programowanie/PO-projekt/build/CMakeFiles/Run_For_Emeralds.dir
+C:/Users/Bartek/Desktop/programowanie/PO-projekt/build/CMakeFiles/edit_cache.dir
+C:/Users/Bartek/Desktop/programowanie/PO-projekt/build/CMakeFiles/rebuild_cache.dir
