@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\Run_For_Emeralds.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\Run_For_Emeralds.dir/objects.a @CMakeFiles\Run_For_Emeralds.dir\objects1.rsp
-C:\MinGW\bin\g++.exe    -Wl,--whole-archive CMakeFiles\Run_For_Emeralds.dir/objects.a -Wl,--no-whole-archive  -o Run_For_Emeralds.exe -Wl,--out-implib,libRun_For_Emeralds.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Run_For_Emeralds.dir\linklibs.rsp
